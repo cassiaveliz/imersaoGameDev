@@ -1,6 +1,7 @@
-Jogo desenvolvido na Imersão Gamedev JavaScript promovida pela Alura
+# Endless runner game 
+Jogo desenvolvido utilizando P5.js na Imersão Gamedev JavaScript promovida pela Alura,
 
-Endless runner game feito usando P5.js
+* [ver jogo](https://cassiaveliz.github.io/imersaoGameDev/)
 
 :sparkles: 
 
