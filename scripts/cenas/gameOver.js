@@ -18,7 +18,7 @@ class GameOver {
     textAlign(CENTER);
     fill('#C83E3E');
     textSize(width / 25);
-    text(`You scored ${parseInt(pontuacao.pontos)} PointS`, width / 2, height / 7 *5);
+    text(`Você fez ${parseInt(pontuacao.pontos)} pontoS`, width / 2, height / 7 *5);
     text('precione ENTER para tentar novamente', width / 2, height / 7 * 6);
   }
 
